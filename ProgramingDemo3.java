@@ -1,4 +1,4 @@
-public class programingDemo3
+public class ProgramingDemo3
 {
 	public static void main(String[] args) {
 		Scanner sc=new Scanner(System.in);
@@ -25,4 +25,4 @@ public class programingDemo3
 
 
 //Input-- aaaaaSSSSSSnnnnnAAAAJJJJJJIIIIIII
-OutPut-----a5S6n5A4J6I7
+//OutPut-----a5S6n5A4J6I7
