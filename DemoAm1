@@ -1,4 +1,4 @@
-public class demo4 {
+public class DemoAm1 {
 	public static void main(String[] args) {
 		long num1=578378923;
 		int pro=0;
