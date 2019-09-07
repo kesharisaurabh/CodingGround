@@ -22,3 +22,7 @@ public class ProgramingDemo2
 		
 	}
 }
+
+
+//Input---9 -3 8 -6 -7 8 10 
+//Output----19
