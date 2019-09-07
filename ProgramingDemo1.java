@@ -1,6 +1,4 @@
-package demo;
-
-public class demo4 {
+public class ProgramingDemo1 {
 	public static void main(String[] args) {
 		long num1=578378923;
 		int pro=0;
